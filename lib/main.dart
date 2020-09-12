@@ -15,7 +15,7 @@ void main() {
       "home" : (context) => MyHome(),
       "reg" : (context) => MyReg(),
       "login" : (context) => MyLogin(),
-      "chat" : (context) => MyChat(),
+      "chat" : (context) => MyChat(), 
     },
     debugShowCheckedModeBanner: false,
     )
