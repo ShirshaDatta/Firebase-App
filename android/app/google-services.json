@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336823978482",
+    "firebase_url": "https://chatappproject-e83d8.firebaseio.com",
+    "project_id": "chatappproject-e83d8",
+    "storage_bucket": "chatappproject-e83d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336823978482:android:609ddc2b86361a377b436b",
+        "android_client_info": {
+          "package_name": "com.shirsha.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336823978482-8ttbl00ni8cgre182f0uljjcs9dl95ef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtX8Trm203RAgFfSp1Qko6TyY9ot8BFP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336823978482-8ttbl00ni8cgre182f0uljjcs9dl95ef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
